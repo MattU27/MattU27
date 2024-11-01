@@ -21,8 +21,7 @@ I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
 - ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
 - 🎬 I love watching movies, especially sci-fi and action genres. 🍿
-- 🍕 I can never say no to a KrispyKreme. It's my ultimate comfort food!
-- 🕹️ When I'm not coding, you can find me gaming or streaming on [Twitch](https://www.twitch.tv/mattu2_7).
+- 🍕 I can never say no to a good pizza. It's my ultimate comfort food!
 - 🐶 I have a dog named Dora. She's a girl and she always likes to stay beside me when I'm about to sleep.
 
 ---
