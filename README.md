@@ -1,26 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm MattU</h1>
+<h3 align="center">A tech enthusiast, gamer, and music lover from the Philippines!</h3>
 
-I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **Mobile Web and Application Development**. Here’s a bit more about me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Front_End-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=backend&logoColor=white"/>
+</p>
+
+---
+
+### About Me
+
+I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **BSIT-MOBILE WEB AND APPLICATION DEVELOPMENT**. Here’s a bit more about me:
 
 - 🔭 I’m currently working on honing my skills in **Flutter** and **web development**.
-- 🌱 I’m learning more about **system integration** and **backend development** to build complete applications.
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
 - 🎮 You’ll often find me gaming or streaming on [Twitch](https://www.twitch.tv/mattu2_7).
-- 💬 Ask me about **Dart**, **Flutter**, or anything tech-related!
-- 📫 How to reach me: [Instagram](https://www.instagram.com/mateo_otnab/) | [Spotify](https://open.spotify.com/user/jlehmbeck) | [Twitch](https://www.twitch.tv/mattu2_7)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
 
 ---
 
 ### GitHub Stats
-![MattU's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&hide_border=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&hide_border=true&theme=radical" alt="John Matthew Banto's GitHub Stats"/>
+</p>
 
 ---
 
 ### Let's Connect!
-- **Instagram**: [mateo_otnab](https://www.instagram.com/mateo_otnab/)
-- **Spotify**: [MattU](https://open.spotify.com/user/jlehmbeck)
-- **Twitch**: [mattu2_7](https://www.twitch.tv/mattu2_7)
+<p align="center">
+  <a href="https://www.instagram.com/mateo_otnab/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://open.spotify.com/user/jlehmbeck">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
+  <a href="https://www.twitch.tv/mattu2_7">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+  </a>
+</p>
 
-Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
+<p align="center">
+  Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
+</p>
