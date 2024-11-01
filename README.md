@@ -15,6 +15,8 @@
 
 ### About Me
 
+I'm **John Matthew Banto** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **BSIT-MOBILE WEB AND APPLICATION DEVELOPMENT**. Here’s a bit more about me:
+
 - 🔭 I’m currently working on honing my skills in **Flutter** and **web development**.
 - 🌱 I’m learning more about **system integration** and **backend development** to build complete applications.
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
