@@ -17,7 +17,7 @@
 
 I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **BSIT-MOBILE WEB AND APPLICATION DEVELOPMENT**. Here’s a bit more about me:
 
-- 🔭 I’m currently working on honing my skills in **Flutter** and **web development**.
+- 🔭 I’m currently working on honing my skills in **Mobile** and **Web development**.
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
 - ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
 
