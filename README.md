@@ -21,7 +21,7 @@ I'm **John Matthew Banto** — a tech enthusiast, gamer, and music lover from th
 
 ### Let's Connect!
 - **Instagram**: [mateo_otnab](https://www.instagram.com/mateo_otnab/)
-- **Spotify**: [jlehmbeck](https://open.spotify.com/user/jlehmbeck)
+- **Spotify**: [MattU](https://open.spotify.com/user/jlehmbeck)
 - **Twitch**: [mattu2_7](https://www.twitch.tv/mattu2_7)
 
 Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
