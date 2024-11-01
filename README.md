@@ -19,7 +19,6 @@ I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines
 
 - 🔭 I’m currently working on honing my skills in **Flutter** and **web development**.
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
-- 🎮 You’ll often find me gaming or streaming on [Twitch](https://www.twitch.tv/mattu2_7).
 - ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
 
 ---
