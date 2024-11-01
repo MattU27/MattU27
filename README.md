@@ -26,6 +26,12 @@ I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines
 
 ---
 
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&hide_border=true&theme=radical" alt="MattU's GitHub Stats"/>
+</p>
+
+---
 
 ### Let's Connect!
 <p align="center">
@@ -41,5 +47,5 @@ I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines
 </p>
 
 <p align="center">
-  Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊" width="300"/>
 </p>
