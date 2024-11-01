@@ -1,7 +1,21 @@
+<h1 align="center">Hi there 👋, I'm John Matthew Banto</h1>
+<h3 align="center">A tech enthusiast, gamer, and music lover from the Philippines!</h3>
 
-## Hi there 👋
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=backend&logoColor=white"/>
+</p>
 
-I'm **John Matthew Banto** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **Mobile Web and Application Development**. Here’s a bit more about me:
+<p align="center">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+</p>
+
+---
+
+### About Me
 
 - 🔭 I’m currently working on honing my skills in **Flutter** and **web development**.
 - 🌱 I’m learning more about **system integration** and **backend development** to build complete applications.
@@ -15,13 +29,19 @@ I'm **John Matthew Banto** — a tech enthusiast, gamer, and music lover from th
 ---
 
 ### GitHub Stats
-![John Matthew Banto's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&hide_border=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&hide_border=true&theme=radical" alt="John Matthew Banto's GitHub Stats"/>
+</p>
 
 ---
 
 ### Let's Connect!
-- **Instagram**: [mateo_otnab](https://www.instagram.com/mateo_otnab/)
-- **Spotify**: [MattU](https://open.spotify.com/user/jlehmbeck)
-- **Twitch**: [mattu2_7](https://www.twitch.tv/mattu2_7)
+<p align="center">
+  <a href="https://www.instagram.com/mateo_otnab/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://open.spotify.com/user/jlehmbeck"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/></a>
+  <a href="https://www.twitch.tv/mattu2_7"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/></a>
+</p>
 
-Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
+<p align="center">
+  Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
+</p>
