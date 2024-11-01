@@ -41,7 +41,7 @@ I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Stressed student coding" width="500"/>
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Stressed student coding" width="600"/>
 </p>
 
 <p align="center">
