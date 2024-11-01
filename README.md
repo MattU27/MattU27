@@ -28,7 +28,6 @@
 - 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
 - 🎮 You’ll often find me gaming or streaming on [Twitch](https://www.twitch.tv/mattu2_7).
 - 💬 Ask me about **Dart**, **Flutter**, or anything tech-related!
-- 📫 How to reach me: [Instagram](https://www.instagram.com/mateo_otnab/) | [Spotify](https://open.spotify.com/user/jlehmbeck) | [Twitch](https://www.twitch.tv/mattu2_7)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
 
