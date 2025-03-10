@@ -86,11 +86,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattU27&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<!-- GitHub Contribution Snake -->
+<!-- GitHub Stats Trophies -->
 <div align="center">
-  <a href="https://github.com/MattU27">
-    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="GitHub Snake" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=MattU27&theme=nord&no-frame=true&row=1&column=7" alt="GitHub Trophies">
+</div>
+
+<!-- GitHub Contribution Calendar -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
