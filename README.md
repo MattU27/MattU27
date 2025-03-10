@@ -10,17 +10,32 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
-const mattU = {
-  education: "BSIT-MWA at National University Manila",
-  specialization: "Mobile and Web Application Development",
-  passions: ["Coding", "Problem Solving", "UI/UX Design"],
-  hobbies: ["Listening to Travis Scott & Jackboys", "Watching Movies", 
-            "Eating Krispy Kreme", "Playing with my dog Dora"],
-  currentFocus: "Building responsive and user-friendly applications",
-  lifePhilosophy: "Code, Create, Innovate!"
-};
-```
+<table>
+  <tr>
+    <td><b>Education:</b></td>
+    <td>BSIT-MWA at National University Manila</td>
+  </tr>
+  <tr>
+    <td><b>Specialization:</b></td>
+    <td>Mobile and Web Application Development</td>
+  </tr>
+  <tr>
+    <td><b>Passions:</b></td>
+    <td>Coding, Problem Solving, UI/UX Design</td>
+  </tr>
+  <tr>
+    <td><b>Hobbies:</b></td>
+    <td>Listening to Travis Scott & Jackboys, Watching Movies, Eating Krispy Kreme, Playing with my dog Dora</td>
+  </tr>
+  <tr>
+    <td><b>Current Focus:</b></td>
+    <td>Building responsive and user-friendly applications</td>
+  </tr>
+  <tr>
+    <td><b>Life Philosophy:</b></td>
+    <td>Code, Create, Innovate!</td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
