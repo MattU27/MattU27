@@ -69,7 +69,7 @@
   <a href="https://github.com/MattU27" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://instagram.com/matt1227" target="_blank">
+  <a href="https://instagram.com/mateo_otnab" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://open.spotify.com/user/jlehmbeck" target="_blank">
