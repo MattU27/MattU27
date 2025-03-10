@@ -69,16 +69,30 @@
 ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matt1227&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattU27&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matt1227&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matt1227&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MattU27&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattU27&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt1227&theme=tokyonight&hide_border=true" alt="MattU's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattU27&theme=tokyonight&hide_border=true" alt="MattU's GitHub streak"/>
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattU27&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
+<!-- GitHub Contribution Calendar -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <div align="center">
@@ -112,7 +126,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matt1227&style=flat-square&color=blue" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=MattU27&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
 
 <div align="center">
