@@ -1,50 +1,108 @@
-<h1 align="center">Hi there 👋, I'm MattU</h1>
-<h3 align="center">A tech enthusiast, gamer, and music lover from the Philippines!</h3>
+# <div align="center">👨‍💻 MattU | Mobile & Web Developer</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Front_End-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=backend&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;BSIT-MWA+Student+at+National+University;Mobile+and+Web+App+Developer&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000" alt="Typing SVG" />
+</div>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
-### About Me
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-I'm **MattU** — a tech enthusiast, gamer, and music lover from the Philippines! Currently, I'm a student at **National University Manila**, diving deep into **BSIT-MOBILE WEB AND APPLICATION DEVELOPMENT**. Here’s a bit more about me:
+```javascript
+const mattU = {
+  education: "BSIT-MWA at National University Manila",
+  specialization: "Mobile and Web Application Development",
+  passions: ["Coding", "Problem Solving", "UI/UX Design"],
+  hobbies: ["Listening to Travis Scott & Jackboys", "Watching Movies", 
+            "Eating Krispy Kreme", "Playing with my dog Dora"],
+  currentFocus: "Building responsive and user-friendly applications",
+  lifePhilosophy: "Code, Create, Innovate!"
+};
+```
 
-- 🔭 I’m currently working on honing my skills in **Mobile** and **Web development**.
-- 👯 I’m looking to collaborate on **open-source projects** or any app ideas that could make an impact.
-- ⚡ Fun fact: I'm a huge fan of **Travis Scott** and the **Jackboys**, and my playlist is packed with their vibes! 🎶
-- 🎬 I love watching movies, especially sci-fi and action genres. 🍿
-- 🍩 I can never say no to a Krispy Kreme. It's my ultimate comfort food!
-- 🐶 I have a dog named Dora. She's a girl and she always likes to stay beside me when I'm about to sleep.
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
----
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
 
+<div align="center">
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+</div>
 
-### Let's Connect!
-<p align="center">
-  <a href="https://www.instagram.com/mateo_otnab/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://open.spotify.com/user/jlehmbeck">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattU&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-  <a href="https://www.twitch.tv/mattu2_7">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattU&theme=tokyonight" alt="MattU's GitHub streak"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Fun Facts
+
+- 🎵 Huge fan of Travis Scott & Jackboys
+- 🎬 Movie enthusiast who enjoys both blockbusters and indie films
+- 🍩 Can't resist Krispy Kreme donuts (especially the original glazed!)
+- 🐕 Proud dog parent to Dora, who often "helps" me code
+- 💻 Coding with a cup of coffee is my perfect productivity setup
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"> Let's Connect
+
+<div align="center">
+  <a href="https://instagram.com/your_instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-</p>
+  <a href="https://open.spotify.com/user/your_spotify" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
+  </a>
+  <a href="https://twitch.tv/your_twitch" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" alt="Stressed student coding" width="2000"/>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MattU&style=flat-square&color=blue" alt="Profile views counter"/>
+</div>
 
-<p align="center">
-  Thanks for stopping by! Looking forward to connecting and collaborating with like-minded folks. 😊
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
+  <p><b>Thanks for visiting my profile! Have a great day!</b></p>
+</div>
