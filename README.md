@@ -69,31 +69,21 @@
 ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MattU27&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MattU27&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MattU27&theme=tokyonight" />
+  <a href="https://github.com/MattU27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattU27&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattU27&theme=tokyonight&hide_border=true" alt="MattU's GitHub streak"/>
 </div>
 
-<!-- GitHub Activity Graph -->
+<!-- GitHub Snake Animation -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattU27&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
-<!-- GitHub Stats Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MattU27&theme=nord&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-</div>
-
-<!-- GitHub Contribution Calendar -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="GitHub Stats" />
+  <a href="https://github.com/MattU27">
+    <img alt="Snake Animation" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/snake.svg"/>
+  </a>
 </div>
 
 <div align="center">
