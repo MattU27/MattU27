@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 MattU | Mobile & Web Developer</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;BSIT-MWA+Student+at+National+University;Mobile+and+Web+App+Developer&font=Fira%20Code&center=true&width=600&height=50&duration=3000&pause=1000" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=BSIT-MWA+Student+at+NU+Manila;Mobile+and+Web+App+Developer;Flutter+%7C+Dart+%7C+JavaScript+%7C+Python" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -52,16 +52,16 @@ const mattU = {
 ## <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="40"> GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt1227&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt1227&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matt1227&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt1227&theme=tokyonight" alt="MattU's GitHub streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matt1227&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matt1227&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt1227&theme=tokyonight&hide_border=true" alt="MattU's GitHub streak"/>
 </div>
 
 <div align="center">
