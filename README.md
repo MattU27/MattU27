@@ -35,20 +35,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=MattU27&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="MattU27 GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattU27&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="MattU27 Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/MattU27">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MattU27&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="MattU27 GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MattU27&layout=compact&hide_border=true&langs_count=8&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="MattU27 Most Used Languages" />
+  </a>
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MattU27&theme=radical&no-frame=true&row=1&column=7" alt="MattU27 Trophies" />
+</div>
+
+<!-- GitHub Stats Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Joined-2020-00b3ff?style=for-the-badge&logo=github&logoColor=white" alt="Joined GitHub" />
+  <img src="https://img.shields.io/badge/Experience-Developer-00b3ff?style=for-the-badge&logo=github&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Commits-25+-00b3ff?style=for-the-badge&logo=github&logoColor=white" alt="Commits" />
+  <img src="https://img.shields.io/badge/Repositories-15+-00b3ff?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
 </div>
 
 ## 📈 Activity Graph
