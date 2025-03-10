@@ -86,13 +86,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MattU27&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
-<!-- GitHub Contribution Calendar -->
+<!-- GitHub Contribution Snake -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MattU27/MattU27/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/MattU27">
+    <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="GitHub Snake" />
+  </a>
 </div>
 
 <div align="center">
