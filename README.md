@@ -84,6 +84,3 @@
   <img src="https://komarev.com/ghpvc/?username=MattU27&color=blue&style=flat-square" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</div> 
