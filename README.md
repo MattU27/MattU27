@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-```javascript
+```js
 const mattU = {
   education: "BSIT-MWA at National University Manila",
   specialization: "Mobile and Web Application Development",
@@ -53,15 +53,15 @@ const mattU = {
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MattU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matt1227&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattU&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matt1227&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattU&theme=tokyonight" alt="MattU's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=matt1227&theme=tokyonight" alt="MattU's GitHub streak"/>
 </div>
 
 <div align="center">
@@ -83,19 +83,19 @@ const mattU = {
 ## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="40"> Let's Connect
 
 <div align="center">
-  <a href="https://instagram.com/your_instagram" target="_blank">
+  <a href="https://instagram.com/matt1227" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://open.spotify.com/user/your_spotify" target="_blank">
+  <a href="https://open.spotify.com/user/matt1227" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://twitch.tv/your_twitch" target="_blank">
+  <a href="https://twitch.tv/matt1227" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MattU&style=flat-square&color=blue" alt="Profile views counter"/>
+  <img src="https://komarev.com/ghpvc/?username=matt1227&style=flat-square&color=blue" alt="Profile views counter"/>
 </div>
 
 <div align="center">
@@ -105,4 +105,4 @@ const mattU = {
 <div align="center">
   <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="70">
   <p><b>Thanks for visiting my profile! Have a great day!</b></p>
-</div>
+</div> 
