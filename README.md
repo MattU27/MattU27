@@ -103,7 +103,7 @@
   <a href="https://instagram.com/matt1227" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://open.spotify.com/user/matt1227" target="_blank">
+  <a href="https://open.spotify.com/user/jlehmbeck" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
   <a href="https://twitch.tv/matt1227" target="_blank">
