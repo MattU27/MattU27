@@ -74,9 +74,6 @@
   <a href="https://open.spotify.com/user/jlehmbeck" target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify">
   </a>
-  <a href="https://kick.com/theo-0o" target="_blank">
-    <img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMi4wMDEgMy4yMDRsLTIuODQgMi44MzRoLTIuNjJ2Ny45MjRoMi42MmwyLjg0IDIuODM0VjMuMjA0em0yLjU1NyA0LjA2OGMuNzMuNzI3IDEuMTgzIDEuNzMxIDEuMTgzIDIuODM4YTMuOTc5IDMuOTc5IDAgMCAxLTEuMTgzIDIuODM5bC0xLjM5LTEuMzg2Yy4zNjUtLjM2NS41OTItLjg2OC41OTItMS40MjRzLS4yMjctMS4wNTktLjU5My0xLjQyNGwxLjM5MS0xLjQ0M3oiLz48L3N2Zz4=&logoColor=white" alt="Kick">
-  </a>
 </div>
 
 <div align="center">
